@@ -2,7 +2,7 @@
 
 ## PL
 
-Konfiguracja ZMK dla **Corne FT z OLED i logo FalbaTech** na prawej połówce.
+Konfiguracja ZMK dla **Corne mini FT z OLED i logo FalbaTech** na prawej połówce.
 
 ## Hardware
 
@@ -125,7 +125,7 @@ https://falbatech.click
 
 ## EN
 
-ZMK configuration for **Corne FT with OLED and FalbaTech logo** on the right half.
+ZMK configuration for **Corne mini FT with OLED and FalbaTech logo** on the right half.
 
 ## Hardware
 
