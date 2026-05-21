@@ -1,0 +1,9 @@
+# Aktywacja LV_USE_IMAGE gdy włączamy custom status screen
+# (potrzebne dla lv_image_create / lv_image_set_src w LVGL 9)
+
+if ZMK_DISPLAY_STATUS_SCREEN_CUSTOM
+
+config LV_USE_IMAGE
+    default y
+
+endif
